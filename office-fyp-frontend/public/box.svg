@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160.424" height="115" viewBox="0 0 160.424 115">
+  <g id="box" transform="translate(0.212)">
+    <g id="box-2" data-name="box" transform="translate(-0.212 0.153)">
+      <rect id="Rectangle-path" width="111.599" height="83.26" transform="translate(24.412 31.222)" fill="#63b3ed"/>
+      <path id="Shape" d="M136.01,114.484H24.413v-6.941h111.6v6.941Zm0-83.261H87.188L111.6,0h48.823L136.012,31.221Zm-62.775,0H24.413L0,0H48.826L73.232,31.217Z" transform="translate(0)" fill="#0c0058"/>
+    </g>
+  </g>
+</svg>
